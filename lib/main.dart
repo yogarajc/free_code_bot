@@ -89,7 +89,7 @@ class _HomeState extends State<Home> {
     });
 
     String base64Image = base64Encode(File(imageFile.path).readAsBytesSync());
-    String apiKey = "AIzaSyA2KXpQhBjtK_91mk2Wd-TNBkIMtKaEVsA";
+    String apiKey = "Your_api_here";
     String geminiProVision =
         "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.0-pro-vision-latest:generateContent?key=$apiKey";
     String geminiVision =
