@@ -23,9 +23,9 @@ Free Code Bot is a powerful Flutter application designed to assist developers by
 - Save useful responses for future reference using the save feature.
 
 ## Screenshots
-<img src="https://github.com/yogarajc/free_code_bot/blob/main/assets/home_screen.jpg
-  " alt="Home screen" width="300"/>
-# ![Query Result]
+# [Home Screen]
+<img src="https://github.com/yogarajc/free_code_bot/blob/main/assets/home_screen.jpg" alt="Home screen" width="300"/>
+# [Query Result]
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/yogarajc/free_code_bot/blob/main/assets/1.jpg" alt="Diagnosis Result 1" width="300"/>
   <img src="https://github.com/yogarajc/free_code_bot/blob/main/assets/2.jpg" alt="Diagnosis Result 2" width="300"/>
