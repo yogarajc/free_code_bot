@@ -39,7 +39,7 @@ class _HomeState extends State<Home> {
   bool _isSending = false;
   String customPrompt = '';
   final TextEditingController _controller = TextEditingController();
-  List<ChatMessage> _messages = [];
+  final List<ChatMessage> _messages = [];
 
   _openCamera() async {
     final ImagePicker picker = ImagePicker();
@@ -270,7 +270,7 @@ class _HomeState extends State<Home> {
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
               Center(
-                child: Container(
+                child: SizedBox(
                   width: MediaQuery.of(context).size.width * 0.95,
                   height: 300,
                   child: _image == null
