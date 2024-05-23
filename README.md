@@ -1,16 +1,40 @@
-# free_code_bot
+# Free Code Bot - Flutter Project with Gemini AI Integration
 
-"A new Flutter project."
+## Description
+Free Code Bot is a powerful Flutter application designed to assist developers by providing coding answers and explanations. This bot leverages the capabilities of Gemini AI to understand and respond to a wide range of coding queries, making it an invaluable tool for programmers of all skill levels.
 
-## Getting Started
+## Table of Contents
+- [Features](#features)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
 
-This project is a starting point for a Flutter application.
+## Features
+- Instant coding answers and explanations using Gemini AI.
+- Supports multiple programming languages.
+- User-friendly interface with easy-to-navigate design.
+- Real-time code syntax highlighting and formatting.
+- Option to save frequently asked questions and answers for quick access.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
+- Open the Free Code Bot app on your mobile device.
+- Enter your coding query in the search bar.
+- Wait for the response from Gemini AI, which will include coding answers and detailed explanations.
+- Save useful responses for future reference using the save feature.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+<img src="https://github.com/yogarajc/free_code_bot/blob/main/assets/home_screen.jpg
+  " alt="Home screen" width="300"/>
+# ![Query Result]
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/yogarajc/free_code_bot/blob/main/assets/1.jpg" alt="Diagnosis Result 1" width="300"/>
+  <img src="https://github.com/yogarajc/free_code_bot/blob/main/assets/2.jpg" alt="Diagnosis Result 2" width="300"/>
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Contact
+For any questions or support, please contact:
+- **Yogaraj**: yogarajc27@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/yogaraj-c-450581282/)
+- [GitHub](https://github.com/yogarajc)
